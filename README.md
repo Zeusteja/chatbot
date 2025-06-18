@@ -12,11 +12,6 @@ SweetieBot is your calming, emotionally intelligent digital bestie. Designed wit
 - 💻 Minimal, modern, and beginner-friendly
 - 🔑 Plug-and-play with your own OpenRouter API key
 
----
-
-## 🖼️ Preview
-
-<img src="https://via.placeholder.com/700x400?text=SweetieBot+GUI+Preview" alt="SweetieBot GUI Screenshot" />
 
 ---
 
